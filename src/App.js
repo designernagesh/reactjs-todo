@@ -25,7 +25,7 @@ function App() {
   
   return (
     <div className="container">
-      <h2 className='my-4 text-center'>Todo App</h2>
+      <h2 className='my-4 text-center'>Todo Application</h2>
       <form onSubmit={ submitHandler }>
         <div className="input-group mb-3">
           <input type="text" className="form-control" placeholder="Careate Todo..."
